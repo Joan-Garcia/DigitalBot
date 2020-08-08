@@ -63,4 +63,4 @@ async def add(ctx, left: int, right: int):
 
 
 
-bot.run('NzM4ODg4OTk1NjQzMDY0NDM5.XySeAA.tU-mFGZY4a99rwO6VPF4wC7I5KE')
+bot.run('NzM4ODg4OTk1NjQzMDY0NDM5.XySeAA.NA5HTgkrpFL_MS_s2SL6nUAFpYU')
